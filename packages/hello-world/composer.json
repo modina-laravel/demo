@@ -1,0 +1,13 @@
+{
+    "name": "modina/hello-world",
+    "description": "dsf",
+    "type": "library",
+    "require": {
+        "modina/base-loaders": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modina\\HelloWorld\\": "src"
+        }
+    }
+}

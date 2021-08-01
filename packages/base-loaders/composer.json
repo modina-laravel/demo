@@ -1,0 +1,10 @@
+{
+    "name": "modina/base-loaders",
+    "description": "dsf",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Modina\\BaseLoaders\\": "src"
+        }
+    }
+}

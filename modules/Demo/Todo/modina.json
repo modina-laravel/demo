@@ -1,0 +1,11 @@
+{
+    "name": "demo/todo",
+    "loaders": {
+        "Modina\\BaseLoaders\\ResourcesLoader": {}
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\Todo\\": "src"
+        }
+    }
+}
