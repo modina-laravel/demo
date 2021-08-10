@@ -1,6 +1,0 @@
-{
-    "name": "modina/hello-world",
-    "loaders": {
-        "App\\ModuleLoaders\\RouteLoader": {}
-    }
-}

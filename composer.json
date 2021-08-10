@@ -47,15 +47,6 @@
             "@php artisan key:generate --ansi"
         ]
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "packages/*",
-            "options": {
-                "symlink": true
-            }
-        }
-    ],
     "extra": {
         "laravel": {
             "dont-discover": []
